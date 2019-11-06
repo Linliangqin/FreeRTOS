@@ -119,7 +119,7 @@ int main(void)
   {
     /* USER CODE END WHILE */
 	  //printf("Test while\r\n");
-	  //HAL_Delay(2000);
+
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
